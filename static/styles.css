@@ -51,3 +51,7 @@
 .starting-page-card {
     border-radius: 24px;
 }
+
+.starting-page-card:hover {
+    border-color: #4c10dd;
+}

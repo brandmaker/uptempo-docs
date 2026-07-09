@@ -7256,7 +7256,7 @@ The rollover process now supports copying activity connections on investments.
 
 * Keep Connect to Spend connections: The new option lets you keep existing [connections between investments and activities](connect-investments-to-activities.html) from the current fiscal year when you roll over to a new fiscal year.
 
-* More streamlines rollovers: Use this option to save time and effort during rollovers, as you no longer need to manually reconnect investments to activities in your new fiscal year hierarchy.
+* More streamlined rollovers: Use this option to save time and effort during rollovers, as you no longer need to manually reconnect investments to activities in your new fiscal year hierarchy.
 
 Note: Note
 
